@@ -1,0 +1,42 @@
+body {
+	background-color: #806517;
+}
+table, td, th {
+	border-collapse: collapse;
+	width: 50%;
+	border: 1px solid black;
+	padding: 15px;
+	margin: auto;
+	background-color: white;
+}
+.header {
+	text-align: center;
+	color: black;
+}
+.biodata {
+	background-color: #fbf6d9;
+	border: 5px solid white;
+	padding: 20px;
+}
+.foto {
+	text-align: center;
+}
+.tulisan th {
+	text-align: center;
+}
+.tulisan td {
+	text-align: left;
+}
+.pembatas {
+	text-align: center;
+	color: white;
+}
+.pjj {
+	border: 5px solid white;
+	padding: 20px;
+	background-color: #fbf6d9;
+}
+.p {
+	color: black;
+	text-align: justify;
+}
