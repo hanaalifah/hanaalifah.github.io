@@ -1,10 +1,10 @@
 body {
-	background-color: #806517;
+	background-image: url(warna.jpg);
+	background-size: 100%
 }
 table, td, th {
-	border-collapse: collapse;
-	width: 50%;
-	border: 1px solid black;
+	width: 20%;
+	border : 5px solid #4583EE;
 	padding: 15px;
 	margin: auto;
 	background-color: white;
@@ -12,11 +12,6 @@ table, td, th {
 .header {
 	text-align: center;
 	color: black;
-}
-.biodata {
-	background-color: #fbf6d9;
-	border: 5px solid white;
-	padding: 20px;
 }
 .foto {
 	text-align: center;
@@ -27,14 +22,12 @@ table, td, th {
 .tulisan td {
 	text-align: left;
 }
-.pembatas {
-	text-align: center;
-	color: white;
-}
 .pjj {
-	border: 5px solid white;
+	border: 5px solid #4583EE;
 	padding: 20px;
-	background-color: #fbf6d9;
+	background-color: white;
+	width : 75%;
+	margin: auto;
 }
 .p {
 	color: black;
